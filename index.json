@@ -1,0 +1,32 @@
+{
+  "Tareas": [
+    {
+      "Nombre": "practicar codigo java",
+      "Descripción": "dedicar a la practica de codigo java 3 horas a la semana.",
+      "Fecha de Creación": "2023-08-24T10:00:00",
+      "Fecha de Vencimiento": "2023-08-27T18:00:00",
+      "Prioridad": 2,
+      "Completada": false
+    }
+   
+  ],
+  
+  "Categorías": [
+    {
+      "Nombre": "Trabajo",
+      "Descripción": "Tareas relacionadas con proyectos de la cohorte y actividades laborales y estudios academicos"
+    }
+  ],
+  
+
+
+  "Usuarios": [ 
+    {
+      "Nombre": "Juan David Pérez",
+      "Correo Electrónico": "juan.perez@example.com",
+      "Fecha de Registro": "2023-08-15T14:30:00"
+      
+    }
+   
+  ]
+}
